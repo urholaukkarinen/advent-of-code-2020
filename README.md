@@ -4,7 +4,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 
 ## Solutions
 1. [Python](1/main.py)
-2. ?
+2. [Haskell](2/main.hs)
 3. ?
 4. ?
 5. ?
