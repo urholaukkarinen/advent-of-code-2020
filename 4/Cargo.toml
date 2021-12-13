@@ -1,0 +1,10 @@
+[package]
+name = "aoc2020-4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "aoc2020-4"
+path = "main.rs"
