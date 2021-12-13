@@ -1,12 +1,9 @@
 #!/bin/bash
 
-# ./init.sh <language> <day>
-# ./init.sh list
+trunk="https://github.com/urholaukkarinen/hello-world-devcontainers/trunk"
 
-trunk=https://github.com/urholaukkarinen/hello-world-devcontainers/trunk
-
-lang=$1
-day=$2
+lang="$1"
+day="$2"
 
 if [ "$lang" == "list" ]; then
     svn ls $trunk | grep "/" | cut -d '/' -f 1
