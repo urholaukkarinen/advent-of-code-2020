@@ -8,7 +8,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 3. [D](3/main.d)
 4. [Rust](4/main.rs)
 5. [Java](5/Main.java)
-6. ?
+6. [C++](6/main.cpp)
 7. ?
 8. ?
 9. ?
