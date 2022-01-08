@@ -9,7 +9,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 4. [Rust](4/main.rs)
 5. [Java](5/Main.java)
 6. [C++](6/main.cpp)
-7. ?
+7. [Ruby](7.main.rb)
 8. ?
 9. ?
 10. ?
